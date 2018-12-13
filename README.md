@@ -33,7 +33,7 @@ npm test
 
 Matt Foxwell – foxwellmw@gmail.com
 
-[Github(https://github.com/foxwellm/)
+[Github](https://github.com/foxwellm/)
 
 Tom Wilhoit – tomwilhoit.business@gmail.com
 
