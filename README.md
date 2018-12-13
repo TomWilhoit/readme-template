@@ -26,18 +26,18 @@ npm test
 ## Release History
 
 * 0.1.0
-    * 12 December 2018`
+    * 12 December 2018
 
 
 ## Meta
 
 Matt Foxwell – foxwellmw@gmail.com
 
-[https://github.com/yourname/github-link](https://github.com/foxwellm/)
+[Github(https://github.com/foxwellm/)
 
 Tom Wilhoit – tomwilhoit.business@gmail.com
 
-[https://github.com/yourname/github-link](https://github.com/tomwilhoit/)
+[Github](https://github.com/tomwilhoit/)
 
 ## Contributing
 
